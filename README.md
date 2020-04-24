@@ -8,25 +8,25 @@
 A simple repository containing some steps to get started with the Streamlit library.
 </p>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robertosousa1/streamlit-app.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robertosousa1/get-started-streamlit.svg">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/robertosousa1/streamlit-app.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/robertosousa1/get-started-streamlit.svg">
   
-  <a href="https://www.codacy.com/app/robertosousa1/streamlit-app?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=robertosousa1/streamlit-app&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/robertosousa1/get-started-streamlit?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=robertosousa1/get-started-streamlit&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/70c8e79c83b442278f6c276ebf117ae4.svg">
   </a>
 
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/robertosousa1/streamlit-app.svg">
-  <a href="https://github.com/robertosousa1/streamlit-app/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/robertosousa1/streamlit-app.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/robertosousa1/get-started-streamlit.svg">
+  <a href="https://github.com/robertosousa1/get-started-streamlit/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/robertosousa1/get-started-streamlit.svg">
   </a>
   
-  <a href="https://github.com/robertosousa1/streamlit-app/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/robertosousa1/streamlit-app.svg">
+  <a href="https://github.com/robertosousa1/get-started-streamlit/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/robertosousa1/get-started-streamlit.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/robertosousa1/streamlit-app.svg">   
+  <img alt="GitHub" src="https://img.shields.io/github/license/robertosousa1/get-started-streamlit.svg">   
 </p>
 
 <p align="center">
@@ -46,7 +46,8 @@ A simple repository containing some steps to get started with the Streamlit libr
 ## [](#getting-started):up: Getting started
 
 -   Clone this repo
--  Enter the folder `streamlit-app`
+-  Enter the folder `get-started-streamlit`
+-  Run `cd get-started-streamlit`
 -  Run `pip  install  -r  requirements.txt` to install the dependencies
 -  Run `streamlit run attachments.py` to see examples of how to attach files to your streamlit document
 -  Run `streamlit run components.py` to see examples of how to use web components in your streamlit document
@@ -64,7 +65,7 @@ A simple repository containing some steps to get started with the Streamlit libr
 After merging your receipt request to done, you can delete a branch from yours.
 
 ## [](#license):memo: License
-This project is under the MIT license. See the [LICENSE]([[https://github.com/robertosousa1/streamlit-app/blob/master/LICENSE](https://github.com/robertosousa1/streamlit-app/blob/master/LICENSE)]) for more information.
+This project is under the MIT license. See the [LICENSE]([[https://github.com/robertosousa1/get-started-streamlit/blob/master/LICENSE](https://github.com/robertosousa1/get-started-streamlit/blob/master/LICENSE)]) for more information.
 
 ----------
 
